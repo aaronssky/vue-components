@@ -43,7 +43,7 @@
 <style lang="scss">
 	body{
 		.w__button{
-			color: red;
+			color: black;
 		}
 	}
 	

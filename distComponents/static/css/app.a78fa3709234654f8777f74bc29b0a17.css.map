@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.a78fa3709234654f8777f74bc29b0a17.css"],"names":[],"mappings":"AACA,gBACE,UAAa,CACd,AAED,WACE,cAAgB,CACjB","file":"app.a78fa3709234654f8777f74bc29b0a17.css","sourcesContent":["\nbody .w__button {\n  color: black;\n}\n\n.ycf-image {\n  max-width: 100%;\n}\n"]}

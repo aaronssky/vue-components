@@ -4,10 +4,10 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-import VVUI from '../packages/index'
+import aronUI from '../packages/index'
 Vue.config.productionTip = false
 
-Vue.use(VVUI)
+Vue.use(aronUI)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
